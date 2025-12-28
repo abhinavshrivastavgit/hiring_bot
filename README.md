@@ -17,3 +17,7 @@ This Python-based decision engine is designed to automate the initial screening 
 1. Clone the repository:
    ```bash
    git clone [https://github.com/abhinavshrivastavgit/hiring_bot.git](https://github.com/abhinavshrivastavgit/hiring_bot.git)
+   # AI PM: HIRING BOT 🤖
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavshrivastav-no1/)
+
+This project is a technical logic engine designed to filter candidates based on Python skills and project volume.   
